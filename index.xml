@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://ximao2019.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2019 05:20:04 -0400</lastBuildDate>
+    
+	<atom:link href="https://ximao2019.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://ximao2019.github.io/post/blog/</link>
+      <pubDate>Thu, 30 May 2019 05:20:04 -0400</pubDate>
+      
+      <guid>https://ximao2019.github.io/post/blog/</guid>
+      <description>i can not visit myblog on mypc</description>
+    </item>
+    
+  </channel>
+</rss>
